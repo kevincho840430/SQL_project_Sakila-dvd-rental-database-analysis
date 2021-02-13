@@ -27,6 +27,7 @@ Finally, provide a table with the family-friendly film category, each of the qua
 - Category
 - Rental length category
 - Count
+
 ![photo](img/q3.PNG)
 
 ## Question 4
