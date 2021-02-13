@@ -34,3 +34,9 @@ Finally, provide a table with the family-friendly film category, each of the qua
 
 Write a query that returns the store ID for the store, the year and month and the number of rental orders each store has fulfilled for that month. Your table should include a column for each of the following: year, month, store ID and count of rental orders fulfilled during that month.
 ![photo](img/q4.PNG)
+
+# Conclusion
+- 1.SQL的建立並沒有想像中的簡易，需再多花時間熟悉
+- 2.要如何找到相對應的欄位並解析出想要的資訊是最花時間的部分
+- 3.Query完之後還需要搭配驗證與後面的資料處理資料才會是有意義的
+
